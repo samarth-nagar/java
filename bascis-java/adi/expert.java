@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class expert {
 
     public static void main(String[] args) {
+        
         try (Scanner sc = new Scanner(System.in);) {
             System.out.println("Enter first number ");
             int num1 = sc.nextInt();

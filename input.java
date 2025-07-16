@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Hello {
 
   public static final int add(int a, int b) {
+
     return a + b;
   }
 
